@@ -1,4 +1,4 @@
-# C for Everybody Course - Coursera (University of Califormia Santa Cruz)
+# C for Everybody Course - Coursera (University of California Santa Cruz)
 
 This repository contains code and assignments from the "C for Everybody" course offered by the University of California on Coursera.
 
